@@ -1,0 +1,10 @@
+Whats app.,
+
+1) sigup with number or Email.
+
+2)Login with number or Email.
+
+3)if already login Then get the old chats using any data base
+
+4)If you Select any person in ur contacts it allow to chat and sending GIF, Sticker, pic, videoes and documents.
+
