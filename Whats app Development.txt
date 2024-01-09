@@ -8,3 +8,10 @@ Whats app.,
 
 4)If you Select any person in ur contacts it allow to chat and sending GIF, Sticker, pic, videoes and documents.
 
+5) View last seen
+
+6) Hide in the last seen.
+
+
+
+
