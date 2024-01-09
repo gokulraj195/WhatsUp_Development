@@ -1,16 +1,22 @@
 Whats app.,
 
-1) sigup with number or Email.
+1) Sign up with a number or Email.
 
-2)Login with number or Email.
+2)Login with a number or Email.
 
-3)if already login Then get the old chats using any data base
+3)if you already login Then get the old chats using any database
 
-4)If you Select any person in ur contacts it allow to chat and sending GIF, Sticker, pic, videoes and documents.
+4)If you select any person in your contacts, you can chat and send GIFs, stickers, pic, videos, and documents.
 
 5) View last seen
 
 6) Hide in the last seen.
+
+7) adding an Audio call feature.
+
+8) adding a video call feature.
+
+
 
 
 
