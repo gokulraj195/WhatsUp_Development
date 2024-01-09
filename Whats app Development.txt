@@ -1,4 +1,6 @@
-Whats app.,
+Whats up application
+
+Author: Gokul Raj
 
 1) Sign up with a number or Email.
 
